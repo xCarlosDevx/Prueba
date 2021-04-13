@@ -19,7 +19,7 @@ $result3 = mysqli_query($conn, "SELECT ID_Usuario, Nombre, Apellido, Correo, Nom
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/v/bs4/dt-1.10.20/datatables.min.css" />
 
     <link rel="stylesheet" href="../CSS/Cajas4.css">
-    <link rel="stylesheet" href="../CSS/EstilosBase.css">
+    <link rel="stylesheet" href="">
 
     <script src="https://kit.fontawesome.com/0458944bda.js" crossorigin="anonymous"></script>
 
