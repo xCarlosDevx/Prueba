@@ -186,7 +186,7 @@ $result3 = mysqli_query($conn, "SELECT ID_Usuario, Nombre, Apellido, Correo, Nom
         </div>
     </div>
 
-
+                        
 
     <script src="../JS/ocultar.js"></script>
     <!-- Optional JavaScript -->
