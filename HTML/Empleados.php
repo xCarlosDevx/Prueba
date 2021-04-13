@@ -28,7 +28,7 @@ $result3 = mysqli_query($conn, "SELECT ID_Usuario, Nombre, Apellido, Correo, Nom
 
 <header class="header">
     <div class="container logo-nav-container">
-        <a href="#" class="logo">Cooking Shop</a>
+        <a href="#" class="logo">Cooking Shop </a>
         <span class="menu-icon">Ver menú</span>
 
         <nav class="navigation">
