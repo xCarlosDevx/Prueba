@@ -1,0 +1,123 @@
+body {
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  color: #000000;
+  font-size: 1.1rem; /*tamaño de las letras*/
+  line-height: 1.3em; /* interlineado */
+  margin: 0;
+}
+
+h1 {
+  font-size: 2.3rem;
+  line-height: 0.3m;
+  text-align: center;
+}
+
+/* parrafos */
+p {
+  margin-bottom: 1.5em; /*margen inferior funciona como enter entre parrafos*/
+}
+
+img {
+  border-radius: 5px;
+  }
+
+  .container {
+    width: 90%;
+    max-width: 900px;
+    margin: 0 auto;
+  }
+
+.container1 {
+  width: 85%; 
+  margin: 0 auto;
+}
+
+
+.container2 {
+  display:none;
+  width: 85%; 
+  margin: 0 auto;
+}
+
+.container3 {
+  display:none;
+  width: 85%; 
+  margin: 0 auto;
+}
+
+.header {
+  background: #333;
+  color: white;
+  padding: 1rem 0;
+
+  /* hacer el menu fijo */
+  /*position: fixed;
+  left: 0;
+  top: 0;*/
+  /* ocuapamos todo el ancho */
+  right: 0;
+}
+
+.header a {
+  color: #ffc000;
+  text-decoration: none;
+}
+
+.logo-nav-container {
+  display: flex;
+  justify-content: space-between;
+  /* lo alineamos al centro */
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+/* logo */
+.logo {
+  letter-spacing: 10px;
+  font-size: 1.5em;
+}
+
+.menu-icon {
+  display: none;
+}
+
+/* todos los "ul" que esten dentro de "navigation" */
+.navigation ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.navigation ul li {
+  /* uno al lado del otro */
+  display: inline-block;
+}
+
+/* los enlaces dentro del menu */
+.navigation ul li a {
+  display: block;
+  padding: 0.5rem 1rem;
+  transition: all 0.3s linear;
+  border-radius: 5px;
+}
+
+.navigation ul li a:hover {
+  background: #ffc0002f;
+}
+
+.main {
+  padding-top: 3.3rem;
+}
+
+/*PIE DE PAGINA*/
+.footer { 
+  background: #333;
+  color: #ffc000;
+  padding: 0.1rem 0;
+  text-align: center;
+}
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
