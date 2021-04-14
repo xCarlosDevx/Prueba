@@ -56,11 +56,11 @@ $result3 = mysqli_query($conn, "SELECT ID_Usuario, Nombre, Apellido, Correo, Nom
 
 <body>
 
-  
+  <div>
     <button id="btn1">Empleado </button>
     <button id="btn2">Pedidos </button>
     <button id="btn3">Usuarios </button>
-
+  </div>
     <div class="container1" id='container1'>
     <h1 class="text-center">Listado de Empleados</h1>
         <div class="row">

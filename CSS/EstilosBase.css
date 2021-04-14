@@ -44,7 +44,11 @@ img {
   width: 85%; 
   margin: 0 auto;
 }
-
+.div{
+  position: absolute;
+  left: 400px;
+  top: 500px;
+}
 .header {
   background: #333;
   color: white;
