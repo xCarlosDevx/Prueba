@@ -21,7 +21,7 @@
     
         <nav class="navigation">
             <ul class="show">
-                <li><a href="https://cookingshop.herokuapp.com/">Inicio</a></li>
+                <li><a href="HTML/index.html">Inicio</a></li>
                 <li><a href="HTML/Categorias.html">Categorias</a></li>
                 <li><a href="HTML/Nosotros.html">Nosotros</a></li>
                 <li><a href="HTML/Contáctanos.html">Contáctanos</a></li>

@@ -33,7 +33,7 @@ $result3 = mysqli_query($conn, "SELECT ID_Usuario, Nombre, Apellido, Correo, Nom
 
         <nav class="navigation">
             <ul class="show">
-                <li><a href="https://cookingshop.herokuapp.com/">Inicio</a></li>
+                <li><a href="../index.html">Inicio</a></li>
                 <li><a href="Categorias.html">Categorias</a></li>
                 <li><a href="Nosotros.html">Nosotros</a></li>
                 <li><a href="Contáctanos.html">Contáctanos</a></li>
