@@ -45,9 +45,7 @@ img {
   margin: 0 auto;
 }
 .div{
-  position: absolute;
-  left: 400px;
-  top: 500px;
+margin: 100px;
 }
 .header {
   background: #333;
